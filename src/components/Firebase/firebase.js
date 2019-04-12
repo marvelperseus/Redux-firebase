@@ -3,12 +3,12 @@ import 'firebase/auth';
 import 'firebase/database';
 
 const config = {
-  apiKey: "AIzaSyA1Q2mEfaeo7n7ZcLm2nc5jDGMpgN2n1m4",
-  authDomain: "redux-auth-908fd.firebaseapp.com",
-  databaseURL: "https://redux-auth-908fd.firebaseio.com/",
-  projectId: "redux-auth-908fd",
-  storageBucket: "gs://redux-auth-908fd.appspot.com/",
-  messagingSenderId: "325155737506",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
 };
 
 class Firebase {
